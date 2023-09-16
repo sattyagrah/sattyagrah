@@ -13,8 +13,6 @@
 
 - 💬 Ask me about: **react,Javascript**
 
-- 📫 Reach me at: **kkumarsatyanshu2107@gmail.com**
-
 - ⚡ Fun fact: **I am good at JavaScript because I can't C#.😂**
 
 <h3 align="left">Connect with me:</h3>
