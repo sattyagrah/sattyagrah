@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning: **Next.js**
 
-- 👨‍💻 Some of my projects are available at: [https://portfolioagain.netlify.app/](https://portfolioagain.netlify.app/)
-
 - 💬 Ask me about: **react,Javascript**
 
 - ⚡ Fun fact: **I am good at JavaScript because I can't C#.😂**
